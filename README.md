@@ -6,7 +6,6 @@
 
 # Install
 
-# Termux 
 $ pkg update && pkg upgrade 
 
 $ pkg install python
@@ -24,3 +23,5 @@ $ git clone
 $ cd
 
 $ python3
+
+# Terimakasih sudah menggunakan Tools Panglima Jatim 
