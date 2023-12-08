@@ -18,10 +18,10 @@ $ pkg install figlet
 
 $pkg install git 
 
-$ git clone 
+$ git clone https://github.com/Projeckerror/DDOS
 
-$ cd
+$ cd DDOS
 
-$ python3
+$ python3 DDOS1.py
 
 # Terimakasih sudah menggunakan Tools Panglima Jatim 
