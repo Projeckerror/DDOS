@@ -1,4 +1,4 @@
-# DDOS ATTACK
+# DDOS 
 
 # Saya tidak bertanggung jawab jika kalian menggunakan tools ini untuk tujuan kejahatan 
 
